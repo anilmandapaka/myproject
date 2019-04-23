@@ -1,2 +1,2 @@
-a = peopletechgroup
+a = "peopletechgroup"
 print(a)
